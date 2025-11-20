@@ -1,0 +1,7 @@
+{
+  "name": "Dubai Café Finder",
+  "description": "A smart café finder for Dubai using Google Maps. Filter by mood, proximity, and time of day to find the perfect spot for work, friends, or family.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
